@@ -21,7 +21,7 @@ From which, just do the following steps:
 
 ```sh
 # Clone this repository
-$ git clone https://github.com/scramblerdoodle/count_messages
+$ git clone https://github.com/scramblerdoodle/count_messages.git
 
 # Go into the repository
 $ cd count_messages
